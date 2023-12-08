@@ -1,0 +1,32 @@
+{
+  "cloudfront_download_domain_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "d3atlkoe5mygaa.cloudfront.net"
+  },
+  "cloudfront_upload_domain_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "d31g8bu1hjz2em.cloudfront.net"
+  },
+  "cognito_user_pool_client_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "6cs5k56enb9244jmea3hldlntf"
+  },
+  "cognito_user_pool_client_secret": {
+    "sensitive": false,
+    "type": "string",
+    "value": "jeqnfqtvha7eof06vqhd7a62pjnu8kk5qv082lroid03vmo6dnq"
+  },
+  "cognito_user_pool_domain_url": {
+    "sensitive": false,
+    "type": "string",
+    "value": "styl-filesharing.auth.ap-southeast-1.amazoncognito.com"
+  },
+  "cognito_user_pool_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "ap-southeast-1_ZxlG7uVV7"
+  }
+}
